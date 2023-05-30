@@ -35,6 +35,6 @@ Feel free to check the [documentation](https://bindingofisaacrebirth.fandom.com/
 ![Spinning Herta](https://raw.githubusercontent.com/JustGritt/TBOI-HertaCubeBaby/main/github/assets/herta.gif "A smol spinning herta")
 > Other links:<br>
 > [🔗] - [Gif source](https://www.youtube.com/watch?v=NY0ffyEu6uo)<br>
-> [🔗] - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2982841759)
+> [🔗] - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2982871234)
 
 
